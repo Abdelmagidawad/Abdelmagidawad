@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelmagid Awad</h1>
 <h3 align="center">A passionate web developer specialized in backend (Node js) from Egypt</h3>
 <br>
-<img align="right" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif" rel="nofollow noopener" height="400px" draggable="false"/> 
+<img align="right" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif" rel="nofollow noopener" height="300px" draggable="false"/> 
 
 - 🔭 I’m currently working on **Web Development in addition to Problem Solving on Codeforces,Leetcode**
 
