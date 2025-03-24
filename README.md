@@ -28,7 +28,7 @@
 <a href="https://www.leetcode.com/abdelmagidawad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdelmagidawad" height="30" width="40" /></a>
 <a href="https://instagram.com/abdelmagid_awad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdelmagid_awad" height="30" width="40" /></a>
   <a href="https://fb.com/abdelmeged.awed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdelmeged.awed" height="30" width="40" /></a>
-  <a href="https://qabilah.com/profile/abdelmagid-awad-eoeimo/professional-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/qabilah.svg" alt="abdelmeged.awed" height="30" width="40" /></a>
+  <a href="https://qabilah.com/profile/abdelmagid-awad-eoeimo/professional-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/qabilah5.svg" alt="abdelmeged.awed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
