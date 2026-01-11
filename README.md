@@ -18,6 +18,8 @@
 - 💬 Ask me about **Web Technologies and anything i'd like to help**
 
 - 📫 How to reach me **abdelmagidawad@gmail.com**
+  
+- 🧾 For further information you can check my [Resume](https://drive.google.com/file/d/1OLzQmEMs62R1A_zvlOCZB3EUY51FoM1-/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
